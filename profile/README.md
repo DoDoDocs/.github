@@ -28,7 +28,7 @@ DoDoDocs는 자동으로 README를 생성해주고, 코드를 문서화주며, 
 | &nbsp;&nbsp;&nbsp;고경훈(kko)&nbsp;&nbsp;&nbsp; | 심혜수(heather) | &nbsp;&nbsp;이정민(kevin)&nbsp;&nbsp; | &nbsp;&nbsp;이민성(haon)&nbsp;&nbsp; | &nbsp;이채은(joshua)&nbsp; |
 |:---:|:---:|:---:|:---:|:---:|
 |<img width="42" alt="image" src="https://github.com/user-attachments/assets/369e0699-5c2f-4b5b-a196-bf19517dce59" /> | <img width="42" alt="image" src="https://github.com/user-attachments/assets/56cc5595-fbda-45a2-9eb1-afe25296a0f4" /> | <img width="46" alt="image" src="https://github.com/user-attachments/assets/b9e687cc-c7d9-48e9-a371-2eb3324b88c3" /> | <img width="41" alt="image" src="https://github.com/user-attachments/assets/b8e7a341-e5b6-4dab-b194-da0baebc1265" /> |<img width="43" alt="image" src="https://github.com/user-attachments/assets/e42e1978-8d41-4574-b786-7326c6009879" /> 
-| - Cloud  <br> - [GitHub](https://github.com/jwywoo) | - Cloud <br> - [GitHub](https://github.com/chanyoungit) | - Ai <br> - [GitHub](https://github.com/42kko) | - BackEnd <br> - [GitHub](https://github.com/Dorae0) | - FrontEnd <br> - [GitHub](https://github.com/lxeso) |
+| - Cloud  <br> - [GitHub](https://github.com/42kko) | - Cloud <br> - [GitHub](https://github.com/ShimHyesu) | - Ai <br> - [GitHub](https://github.com/frog9088) | - BackEnd <br> - [GitHub](https://github.com/msung99) | - FrontEnd <br> - [GitHub](https://github.com/euncherry) |
 
  </div>
 
