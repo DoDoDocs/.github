@@ -5,6 +5,7 @@
 </p>
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/kNIDehuqLqo?si=JqorfxURoVRt4QCk)
+[![Mail](https://img.shields.io/badge/gmail-005FF9.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dododocs@gmail.com)
 
 # 프로젝트 설명 
 ---
@@ -43,3 +44,5 @@ DoDoDocs는 자동으로 README를 생성해주고, 코드를 문서화주며, 
 ![BackEnd](https://github-readme-tech-stack.vercel.app/api/cards?title=BackEnd&lineCount=2&width=500&line1=springboot%2Cspring+boot%2C6DB33F%3Bredis%2Credis%2CFF4438%3Bgithub%2Cgithub+app%2Cffffff%3B&line2=spring%2Crest+docs%2C6DB33F%3Bjunit5%2Cjunit5%2C25A162%3Bmysql%2Cmysql%2C4479A1%3B)
 
 
+### Contact
+✉️ dododocs@gmail.com
