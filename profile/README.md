@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/kNIDehuqLqo?si=JqorfxURoVRt4QCk)
 
 # Dododocs
-자동으로 **README를 생성**해주고, **코드를 문서화**주며, 이를 바탕으로 한 **지능형 챗봇을 제공**하는 웹 기반 서비스입니다.
+자동으로 **README를 생성**해주고, **코드를 문서화**해주며, 이를 바탕으로 한 **지능형 챗봇을 제공**하는 웹 기반 서비스입니다.
 
 <br><br>
 
